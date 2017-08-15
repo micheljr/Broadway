@@ -3,3 +3,34 @@ html{
 	font-family: Helvetica;
 }
 
+a{
+	font-size: 18px;
+	color: white;
+}
+div{
+	background-image: url(../images/the-flatiron-building.png);
+}
+h1{
+	font-weight: bold;
+}
+#subtitle,#subsubtitle,p{
+	color: gray;
+}
+
+#subsubtitle{
+	font-size: 23px;
+	
+}
+p{
+	font-size: 14px;
+}
+#DESIGN{
+	color: white;
+	background-image: url(../images/the-flatiron-building.png);
+}
+footer{
+	background-color: dimgray;
+	color: white;
+	font-size: 11px;
+	text-align:left;
+}
