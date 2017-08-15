@@ -2,6 +2,10 @@ html{
 	text-align: center;
 	font-family: Helvetica;
 }
+.title{
+	font-size: 70px;
+	color: white;
+}
 
 a{
 	font-size: 18px;
@@ -13,18 +17,18 @@ div{
 h1{
 	font-weight: bold;
 }
-#subtitle,#subsubtitle,p{
+.subtitle,.subsubtitle,p{
 	color: gray;
 }
 
-#subsubtitle{
+.subsubtitle{
 	font-size: 23px;
 	
 }
 p{
 	font-size: 14px;
 }
-#DESIGN{
+.DESIGN{
 	color: white;
 	background-image: url(../images/the-flatiron-building.png);
 }
