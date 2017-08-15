@@ -4,15 +4,19 @@ html{
 }
 .title{
 	font-size: 70px;
+}
+
+a {
+	font-size: 18px;
+	
+}
+a,.title,.DESIGN,footer{
 	color: white;
 }
 
-a{
-	font-size: 18px;
-	color: white;
-}
 div{
 	background-image: url(../images/the-flatiron-building.png);
+	
 }
 h1{
 	font-weight: bold;
@@ -29,12 +33,10 @@ p{
 	font-size: 14px;
 }
 .DESIGN{
-	color: white;
 	background-image: url(../images/the-flatiron-building.png);
 }
 footer{
 	background-color: dimgray;
-	color: white;
 	font-size: 11px;
 	text-align:left;
 }
